@@ -1,4 +1,4 @@
-This version is no longer valid as it is outdated. If you are interested in this updated font and other typefaces, you can visit the page: https://github.com/silverblurtype
+This page is no longer valid as it is outdated. If you are interested in this updated font and other typefaces, you can visit the page: https://github.com/silverblurtype
 
 <!--
 **vlrnfonts/vlrnfonts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
